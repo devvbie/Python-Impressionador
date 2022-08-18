@@ -45,3 +45,6 @@ Módulos:
 15 - Transformando Python em exe
 16 - Projetos
 17 - Orientação a objetos completo - classes e métodos
+
+Links uteis:
+1. https://www.youtube.com/watch?v=247l5jpbDa0
