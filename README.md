@@ -18,9 +18,9 @@ Exercícios extras: https://wiki.python.org.br/ListaDeExercicios
 Plataforma competitiva: https://checkio.org/
 
 Módulos:<br>
-1 - Variáveis<br>
-2 - Condições<br>
-3 - Strings<br>
+**1 - Variáveis**<br>
+**2 - Condições**<br>
+**3 - Strings**<br>
 4 - Listas<br>
 5 - Repetição<br>
 6 - Tuplas<br>
