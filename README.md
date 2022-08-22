@@ -21,9 +21,9 @@ Módulos:<br>
 **1 - Variáveis**<br>
 **2 - Condições**<br>
 **3 - Strings**<br>
-4 - Listas<br>
-5 - Repetição<br>
-6 - Tuplas<br>
+**4 - Listas**<br>
+**5 - Repetição**<br>
+**6 - Tuplas**<br>
 7 - Dicionários<br>
 8 - Iterables<br>
 9 - Funções<br>
