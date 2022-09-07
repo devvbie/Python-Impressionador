@@ -24,11 +24,11 @@ Módulos:<br>
 **4 - Listas**<br>
 **5 - Repetição**<br>
 **6 - Tuplas**<br>
-7 - Dicionários<br>
-8 - Iterables<br>
-9 - Funções<br>
-10 - Módulos, bibliotecas e introdução a orientação a objeto<br>
-11 - List Comprehension<br>
+**7 - Dicionários**<br>
+**8 - Iterables**<br>
+**9 - Funções**<br>
+**10 - Módulos, bibliotecas e introdução a orientação a objeto**<br>
+**11 - List Comprehension**<br>
 12 - Functions usadas como parâmetro e expressões Lambad<br>
 13 - Análise de Dados com o Pandas<br>
 14 - Integrações<br>
